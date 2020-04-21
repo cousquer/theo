@@ -1,0 +1,30 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  padding: 1em;
+    color: white;
+    background-color: black;
+}
+
+model-viewer {
+  width: 1500px;
+  height: 630px;
+}
+
+#brain {
+  height: 600px;
+  width: auto;
+}
+.content {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.video {
+  margin: 1em 0;
+}
+p {
+  margin-bottom: 1em;
+}
+
+
